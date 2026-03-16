@@ -1,76 +1,48 @@
-# Exercícios do Curso Java Programação Orientada a Objetos - Nélio Alves
+# ☕ Java Exercícios - Fuctura Tecnologia
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
-## 📋 Sobre o Repositório
-
-Este repositório contém todos os exercícios práticos desenvolvidos durante o curso **"Java Programação Orientada a Objetos"** do professor **Nélio Alves**. O curso aborda desde os conceitos básicos da linguagem Java até tópicos avançados como Spring Framework, JPA, Hibernate e muito mais.
-
-## 📚 Conteúdo do Curso
-
-### Módulos Principais:
-- ✅ Lógica de programação com Java
-- ✅ Programação Orientada a Objetos (POO)
-- ✅ Estruturas de dados
-- ✅ Tratamento de exceções
-- ✅ Trabalhando com arquivos
-- ✅ Interfaces
-- ✅ Generics, Set e Map
-- ✅ Programação funcional e expressões lambda
-- ✅ Banco de dados com JDBC
-- ✅ JPA e Hibernate
-- ✅ Spring Boot
-
-## 🗂️ Estrutura do Repositório
-
-```
-📦 java-course-exercises
-├── 📁 modulo-01-estrutura-sequencial
-├── 📁 modulo-02-estrutura-condicional
-├── 📁 modulo-03-estrutura-repetitiva
-├── 📁 modulo-04-introducao-poo
-├── 📁 modulo-05-construtores-palavra-this
-├── 📁 modulo-06-encapsulamento
-├── 📁 modulo-07-heranca-polimorfismo
-├── 📁 modulo-08-tratamento-excecoes
-├── 📁 modulo-09-arquivos
-├── 📁 modulo-10-interfaces
-├── 📁 modulo-11-generics-set-map
-├── 📁 modulo-12-programacao-funcional
-├── 📁 modulo-13-jdbc
-├── 📁 modulo-14-jpa-hibernate
-└── 📁 modulo-15-spring-boot
-```
-
-
-
-2. Abra o projeto em sua IDE de preferência
-
-3. Navegue até o módulo desejado e execute a classe principal
-
-## 🛠️ Tecnologias Utilizadas
-
-- **Java** - Linguagem principal
-- **Spring Boot** - Framework para aplicações web
-- **JPA/Hibernate** - Mapeamento objeto-relacional
-- **Maven** - Gerenciamento de dependências
-- **MySQL/PostgreSQL** - Bancos de dados relacionais
-- **Git** - Controle de versão
-
-
-
-
-
-## 🤝 Contribuições
-
-Este é um repositório de estudo pessoal, mas sugestões e correções são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este repositório contém a minha jornada de aprendizado na trilha de Java da **Fuctura Tecnologia**. Aqui estão concentrados todos os exercícios práticos, desde a lógica de programação até conceitos avançados de Orientação a Objetos.
 
 ---
 
+## 🚀 O que estou estudando?
+
+O objetivo deste projeto é consolidar os fundamentos necessários para atuar como **Desenvolvedor Java Júnior** ou **Analista de Dados**. Os exercícios cobrem:
+
+* **Lógica de Programação:** Manipulação de variáveis e tipos primitivos.
+* **Estruturas de Decisão:** `if`, `else`, `switch-case`.
+* **Laços de Repetição:** `for`, `while`, `do-while`.
+* **Estruturas de Dados:** Arrays e Listas (ArrayList).
+* **POO (Programação Orientada a Objetos):** Classes, atributos, métodos, herança e polimorfismo.
+* **Tratamento de Exceções:** Uso de `try-catch`.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+* **Linguagem:** Java (JDK 21)
+* **Ferramentas:** [Sua IDE - ex: IntelliJ IDEA / Eclipse / VS Code]
+* **Versionamento:** Git e GitHub
+
+---
+
+## 📂 Organização dos Exercícios
+
+Abaixo, a lista de tópicos baseada no material da Fuctura:
+
+1.  **Fundamentos:** Entrada e saída de dados com `Scanner`.
+2.  **Operadores:** Cálculos matemáticos e expressões lógicas.
+3.  **Controle de Fluxo:** Exercícios de verificação de idade, notas e cálculos de desconto.
+4.  **Repetição:** Tabuadas, somatórios e contagens personalizadas.
+5.  **Desafios de POO:** Criação de sistemas simples (ex: Cadastro de Funcionários, Sistema Bancário).
+
+---
+
+## 💡 Diferencial: Banco de Dados
+
+Além do desenvolvimento em Java, este repositório demonstra minha habilidade em integrar lógica de backend com persistência de dados, incluindo conhecimentos em:
+* **Oracle SQL** (Triggers, Procedures e Queries complexas).
+* Modelagem de dados para suporte à decisão.
+
+
+---
+> "O sucesso é a soma de pequenos esforços repetidos dia após dia."
