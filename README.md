@@ -43,17 +43,7 @@ Este repositório contém todos os exercícios práticos desenvolvidos durante o
 └── 📁 modulo-15-spring-boot
 ```
 
-## 🚀 Como Executar os Exercícios
 
-### Pré-requisitos
-- Java JDK 11 ou superior
-- IDE (Eclipse, IntelliJ, VS Code)
-
-### Passos para execução
-1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-```
 
 2. Abra o projeto em sua IDE de preferência
 
@@ -68,43 +58,15 @@ git clone https://github.com/seu-usuario/nome-do-repositorio.git
 - **MySQL/PostgreSQL** - Bancos de dados relacionais
 - **Git** - Controle de versão
 
-## 📊 Status do Curso
 
-- [x] Módulo 1: Estrutura Sequencial
-- [x] Módulo 2: Estrutura Condicional
-- [x] Módulo 3: Estrutura Repetitiva
-- [ ] Módulo 4: Introdução à POO
-- [ ] Módulo 5: Construtores e this
-- [ ] Módulo 6: Encapsulamento
-- [ ] Módulo 7: Herança e Polimorfismo
-- [ ] Módulo 8: Tratamento de Exceções
-- [ ] Módulo 9: Arquivos
-- [ ] Módulo 10: Interfaces
-- [ ] Módulo 11: Generics, Set e Map
-- [ ] Módulo 12: Programação Funcional
-- [ ] Módulo 13: JDBC
-- [ ] Módulo 14: JPA/Hibernate
-- [ ] Módulo 15: Spring Boot
 
-## 📝 Exercícios Destacados
 
-### Exercício 1: [Nome do Exercício]
-- **Descrição:** Breve descrição do exercício
-- **Conceitos aplicados:** POO, classes, métodos
-
-### Exercício 2: [Nome do Exercício]
-- **Descrição:** Breve descrição do exercício
-- **Conceitos aplicados:** Herança, polimorfismo
 
 ## 🤝 Contribuições
 
 Este é um repositório de estudo pessoal, mas sugestões e correções são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-## 📞 Contato
 
-- **LinkedIn:** [Seu LinkedIn](link)
-- **Email:** seu-email@exemplo.com
-- **GitHub:** [seu-usuario](link)
 
 ## 📄 Licença
 
