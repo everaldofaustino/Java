@@ -21,7 +21,7 @@ O objetivo deste projeto é consolidar os fundamentos necessários para atuar co
 
 * **Linguagem:** Java (JDK 21)
 * **Ferramentas:** [Sua IDE - ex: IntelliJ IDEA / Eclipse / VS Code]
-* **Versionamento:** Git e GitHub
+* **Versionamento:** Git e   GitHub
 
 ---
 
